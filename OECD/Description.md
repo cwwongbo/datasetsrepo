@@ -45,3 +45,6 @@
 - Nuclear power plants is defined as the number of nuclear units in operation as of 1 January 2019. It is measured as a number.
 
 
+## 7. CPIs
+- Link: https://data.oecd.org/price/inflation-cpi.htm
+-
