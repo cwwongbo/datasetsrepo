@@ -47,4 +47,7 @@
 
 ## 7. CPIs
 - Link: https://data.oecd.org/price/inflation-cpi.htm
--
+
+## 8. Inflation Forecast
+- Annual Growth Rate (%)
+- 
